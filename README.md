@@ -7,7 +7,7 @@ I based my landing page on the landing page for Hey.com, the new email service f
 ![Screenshot](resources/inspiration.png)
 
 
-With that in mind, I built a landing page for an email service called NAMASTE. Most of the elements were the same as or similar to the Hey.com landing page. I changed some of the names in the navbar ("The Dharma" instead of "Manifesto"), and I also rewrote most of the text on the main page, although the structure and some of the phrases are similar. 
+With that in mind, I built a landing page for an email service called NAMASTE based on the tweet. Most of the elements were the same as or similar to the Hey.com landing page. I changed some of the names in the navbar ("The Dharma" instead of "Manifesto"), and I also rewrote most of the text on the main page, although the structure and some of the phrases are similar. 
 
 I'm really happy with how similar I was able to get the page to look. I think the hover effects and gradient buttons look great, and I especially like the gradient hover effect on the footer links. 
 
@@ -27,14 +27,17 @@ Finally, my css is much messier than I would like. I had almost no experience wi
 ## Screenshots
 
 Here's the screenshot I took when I finished the HTML layout stage (a lot of my HTML ended up changing when I styled the page).
-![Screenshot](html.png)
+![Screenshot](resources/html.png)
 
 
-Next, I've got a screenshot of the top and bottom of the page. I really like how both of these look.
+Next, I've got a screenshot of the top of the page. 
 ![Screenshot](resources/fullscreen1.png)
+
+And here's the bottom of the fullscreen page (I really like how the footer links look here).
 ![Screenshot](resources/fullscreen2.png)
 
 
-Finally, here's the mobile version. Note the hamburger menu at the top, and the column of footer links at the bottom.
+Finally, here's the top of the mobile version, with the hamburger menu at the top right. 
 ![Screenshot](resources/mobile1.png)
+And here's the column of footer links at the bottom of the mobile version.
 ![Screenshot](resources/mobile2.png)
