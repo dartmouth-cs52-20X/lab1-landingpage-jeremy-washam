@@ -7,7 +7,7 @@ I based my landing page on the landing page for Hey.com, the new email service f
 ![Screenshot](resources/inspiration.png)
 
 
-With that in mind, I built a landing page for an email service called NAMASTE based on the tweet. Most of the elements were the same as or similar to the Hey.com landing page. I changed some of the names in the navbar ("The Dharma" instead of "Manifesto"), and I also rewrote most of the text on the main page, although the structure and some of the phrases are similar. 
+With that in mind, I built a landing page for an email service called NAMASTE based on the tweet, using the design of the Hey.com landing page. Most of the elements were the same as or similar to the Hey.com landing page. I changed some of the names in the navbar ("The Dharma" instead of "Manifesto"), and I also rewrote most of the text on the main page, although the structure and some of the phrases are similar (and I used a few lines from the tweet here as well).
 
 I'm really happy with how similar I was able to get the page to look. I think the hover effects and gradient buttons look great, and I especially like the gradient hover effect on the footer links. 
 
